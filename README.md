@@ -19,7 +19,7 @@ This project is fully coded in Typescript and could be deployed with docker-comp
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="30px" height="30px"> 
 </p>
 
-## What I've Learnd
+## What I've Learned
 
 I was the one responsible for the game and this is what I've learned.
 
